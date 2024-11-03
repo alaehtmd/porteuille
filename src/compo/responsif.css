@@ -1,0 +1,13 @@
+/* src/compo/responsive.css */
+.mobile {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .mobile nav {
+    padding: 20px;
+  }
+  
+  .mobile nav a {
+    margin-bottom: 10px;
+  }

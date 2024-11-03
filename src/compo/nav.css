@@ -1,0 +1,24 @@
+
+.navbar{
+    position: fixed;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+   font-size: 26px;
+    width: 100%;
+    height:10%;
+    
+    
+    
+}
+.navbar-item{
+
+  
+    text-decoration: none;
+}
+.navbar-item:hover{
+    opacity: 0.8;
+}
